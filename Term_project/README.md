@@ -8,4 +8,4 @@ the methods proposed in the paper, we aim to restore the overall brightness and
 color accuracy of images under low backlight conditions, making them 
 comparable to the original images.  
 
-This project is completed with Jerry, Chen is Department of Electrical Engineering at National Taiwan University.  
+This project is completed with Jerry, Chen is a postgradute student Department of Electrical Engineering at National Taiwan University.  

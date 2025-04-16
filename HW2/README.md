@@ -1,5 +1,5 @@
 # HW2 has four problems  
-**Problem 1**  
+## Problem 1
 
 An image containing vertical bars like the one shown below was blurred using square box kernels of size 23, 25, and 45 pixels on the side, respectively. The vertical bars are 5 pixels wide, 100 pixels high, and their separation is 20 pixels.  
 

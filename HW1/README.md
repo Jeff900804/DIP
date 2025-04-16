@@ -1,4 +1,4 @@
-# HW1 has three subroutines  
+# HW1 has three problems  
 
 **Problem 1**  
 

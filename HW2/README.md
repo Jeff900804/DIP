@@ -1,5 +1,5 @@
 # HW2 has four problems  
-## Problem 1
+### Problem 1
 
 An image containing vertical bars like the one shown below was blurred using square box kernels of size 23, 25, and 45 pixels on the side, respectively. The vertical bars are 5 pixels wide, 100 pixels high, and their separation is 20 pixels.  
 
@@ -7,7 +7,7 @@ a) Generate the image according to the specification and Implement the lowpass f
 
 b) If the filters are implemented correctly, you can see a clear separation between the filtered vertical bars for box kernels of size 23 and 45. However, such separation does not exist for the box kernel of size 25. More specifically, the bars have merged. Explain the reason.  
 
-**Problem 2**  
+### Problem 2  
 
 The images below were obtained using a combination of filters described in Section 3.8. Now, let’s see if the results can be obtained by histogram matching.  
 
